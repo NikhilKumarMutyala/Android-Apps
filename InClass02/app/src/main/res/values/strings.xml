@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InClass02</string>
+    <string name="title" translatable="false">Body Mass Index (BMI)</string>
+    <string name="Title">Body Mass Index (BMI)</string>
+</resources>

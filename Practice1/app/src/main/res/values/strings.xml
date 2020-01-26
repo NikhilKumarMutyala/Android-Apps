@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practice1</string>
+
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="OK_button">OK</string>
+    <string name="Cancel_Button">Cancel</string>
+
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
