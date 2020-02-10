@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
             public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
 
                 Log.d("demo",progress+"");
-                tv.setText(progress+"");
+                tv.setText(progress+""+"Times");
             }
 
             @Override
